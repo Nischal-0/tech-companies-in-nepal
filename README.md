@@ -178,6 +178,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Mercantile Communications Pvt. Ltd.](https://www.mos.com.np/) | Durbar Marg, Kathmandu | Provides comprehensive range of excellent value added services for Internet, content designing, development and hosting
 - [Mhuchya Technology](https://mhuchya.com.np/) | Sankhamul, Kathmandu | United for the development of Technology in Nepal, globally
 - [Microsoft Innovation Center Nepal](https://micnepal.org) | Khichapokhari, Kathmandu | Provides access to world-class resources for students, software developers, IT professionals & entrepreneurs
+- [Mind Risers Consortium Pvt. Ltd](https://mindrisers.com.np) | Putalisadak, Kathmandu | Provides IT Course Training along with Internship and Placement for IT enthusiasts. Also a software development company with popular software releases like Digital Palika, Ratopati and so on.
 - [MPercept Technology](https://mpercept.com/) | Kupondole, Kathmandu | Building Fully Autonomous AI Technology to make things easier
 - [Nagarjun Software Technosys Pvt. Ltd.](https://nagarjunsofttech.com/) | Nagarjun, Kathmandu | Online Marketing and Mobile Apps Software Development
 - [Naxa Pvt. Ltd.](https://naxa.com.np/) | Maharajgunj, Kathmandu | Address contemporary problems in developing countries through technological innovations, particularly in digital and spatial technology
